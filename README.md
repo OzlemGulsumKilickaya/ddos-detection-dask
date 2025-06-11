@@ -46,17 +46,23 @@ View a sample:
 print(df.head())
 
 📁 Folder Structure
-bash
-Kopyala
-Düzenle
+
 ddos-detection-dask/
+
 │
+
 ├── notebooks/
+
 │   └── DDoS_Detection_Dask.ipynb     # Main notebook
+
 ├── data/                             # (Not included – download from CIC)
+
 │
+
 ├── README.md
+
 ├── .gitignore
+
 └── LICENSE
 
 
